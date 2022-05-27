@@ -1,5 +1,8 @@
 # actinia tutorial: Jupyter notebooks
 
+Actinia is an open source REST API for scalable, distributed, high performance processing of geographical data that uses GRASS GIS for computational tasks.
+It provides a REST API to process satellite images, time series of satellite images, arbitrary raster data with geographical relations and vector data.
+
 The Jupyter notebooks included here are based on the [actinia tutorial](https://mundialis.github.io/actinia_core/).
 This repository offers the tutorial chapters as notebooks, for local usage or to run via Google Colab or binder in your browser.
 
@@ -26,11 +29,15 @@ This repository offers the tutorial chapters as notebooks, for local usage or to
 
 ## Getting started
 
+The actinia Jupyter notebooks provided here can be easily executed in cloud based
+services. We have added launch buttons to Binder and Colab, cloud based services
+that can run the Jupyter notebooks. Certainly you can also execute the notebooks
+locally on your system.
+
 ### Google Colab
 
 In order to run a notebook, simply click on the "launch Google Colab" button.
-It will start a virtual machine with the notebook for you, for interactive
-usage.
+It will run the notebook for you, for interactive usage.
 
 ### Using binder
 
@@ -40,9 +47,11 @@ usage.
 
 ### Using the notebooks locally
 
-Start the notebook server from the command line in the directory with
-`*.jpynb` files with `jupyter notebook`. This will open a new browser tab
-or window with a list of the contents of the current working directory.
-Clicking on one of the `*.jpynb` files will start this particular notebook.
+Clone this repository with `git clone` first. Then locally start the Jupyter notebook
+server from the command line in the directory containing the `*.jpynb` files with:
+`jupyter notebook`
+
+This will open a new browser tab or window with a list of the contents of the current
+working directory. Clicking on one of the `*.jpynb` files will start this particular notebook.
 
 See also the official documentation for [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/).
