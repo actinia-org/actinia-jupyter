@@ -26,7 +26,7 @@ This repository offers the tutorial chapters as notebooks, for local usage or to
 
 ## Getting started
 
-## Google Colab
+### Google Colab
 
 In order to run a notebook, simply click on the "launch Google Colab" button.
 It will start a virtual machine with the notebook for you, for interactive
