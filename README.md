@@ -12,7 +12,7 @@ This repository offers the tutorial chapters as notebooks, for local usage or to
 * actinia database access:
     * [original tutorial](https://mundialis.github.io/actinia_core/tutorial_data_access/) | [Jupyter notebook](https://github.com/mundialis/actinia-jupyter/blob/main/notebooks/actinia_database_access.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mundialis/actinia-jupyter/blob/main/notebooks/actinia_database_access.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mundialis/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_database_access.ipynb)
-* Time-series sampling:
+* Time-series (STRDS) sampling:
     * [original tutorial](https://mundialis.github.io/actinia_core/tutorial_strds_sampling/) | [Jupyter notebook](https://github.com/mundialis/actinia-jupyter/blob/main/notebooks/actinia_strds_sampling.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mundialis/actinia-jupyter/blob/main/notebooks/actinia_strds_sampling.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mundialis/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_strds_sampling.ipynb)
 * Landsat NDVI computation:
