@@ -21,7 +21,7 @@ This repository offers the tutorial chapters as notebooks, for local usage or to
 * Sentinel-2 NDVI computation:
     * [original tutorial](https://mundialis.github.io/actinia_core/tutorial_sentinel2_ndvi/) | [Jupyter notebook](https://github.com/mundialis/actinia-jupyter/blob/main/notebooks/actinia_sentinel2_ndvi.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mundialis/actinia-jupyter/blob/main/notebooks/actinia_sentinel2_ndvi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mundialis/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_sentinel2_ndvi.ipynb)
-* User defined processing:
+* User defined processing (process chains):
     * [original tutorial](https://mundialis.github.io/actinia_core/tutorial_process_chain/) | [Jupyter notebook](https://github.com/mundialis/actinia-jupyter/blob/main/notebooks/actinia_process_chain.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mundialis/actinia-jupyter/blob/main/notebooks/actinia_process_chain.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mundialis/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_process_chain.ipynb)
 
