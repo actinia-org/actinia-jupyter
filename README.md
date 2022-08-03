@@ -16,9 +16,11 @@ This repository offers the tutorial chapters as notebooks, for local usage or to
     * [original tutorial](https://mundialis.github.io/actinia_core/tutorial_strds_sampling/) | [Jupyter notebook](https://github.com/mundialis/actinia-jupyter/blob/main/notebooks/actinia_strds_sampling.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mundialis/actinia-jupyter/blob/main/notebooks/actinia_strds_sampling.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mundialis/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_strds_sampling.ipynb)
 * Landsat NDVI computation:
+    * **currently not working** due to [actinia-core issue #261](https://github.com/mundialis/actinia_core/issues/261)
     * [original tutorial](https://mundialis.github.io/actinia_core/tutorial_landsat_ndvi/) | [Jupyter notebook](https://github.com/mundialis/actinia-jupyter/blob/main/notebooks/actinia_landsat_ndvi.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mundialis/actinia-jupyter/blob/main/notebooks/actinia_landsat_ndvi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mundialis/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_landsat_ndvi.ipynb)
 * Sentinel-2 NDVI computation:
+    * **currently not working** due to [actinia-core issue #261](https://github.com/mundialis/actinia_core/issues/261)
     * [original tutorial](https://mundialis.github.io/actinia_core/tutorial_sentinel2_ndvi/) | [Jupyter notebook](https://github.com/mundialis/actinia-jupyter/blob/main/notebooks/actinia_sentinel2_ndvi.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mundialis/actinia-jupyter/blob/main/notebooks/actinia_sentinel2_ndvi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mundialis/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_sentinel2_ndvi.ipynb)
 * User defined processing (process chains):
