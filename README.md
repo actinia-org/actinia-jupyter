@@ -50,10 +50,10 @@ usage.
 ### Using the notebooks locally
 
 Clone this repository with `git clone` first. Then locally start the Jupyter notebook
-server from the command line in the directory containing the `*.jpynb` files with:
+server from the command line in the directory containing the `*.ipynb` files with:
 `jupyter notebook`
 
 This will open a new browser tab or window with a list of the contents of the current
-working directory. Clicking on one of the `*.jpynb` files will start this particular notebook.
+working directory. Clicking on one of the `*.ipynb` files will start this particular notebook.
 
 See also the official documentation for [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/latest/).
