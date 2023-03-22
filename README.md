@@ -26,6 +26,8 @@ This repository offers the tutorial chapters as notebooks, for local usage or to
 * User defined processing (process chains):
     * [original tutorial](https://actinia-org.github.io/actinia-core/tutorial_process_chain/) | [Jupyter notebook](https://github.com/actinia-org/actinia-jupyter/blob/main/notebooks/actinia_process_chain.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/actinia-org/actinia-jupyter/blob/main/notebooks/actinia_process_chain.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/actinia-org/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_process_chain.ipynb)
+* Using actinia with the [actinia-python-client](https://github.com/actinia-org/actinia-python-client/):
+    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/actinia-org/actinia-jupyter/blob/main/notebooks/actinia_python_client.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/actinia-org/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_python_client.ipynb)
 * Visualizing actinia results with [leafmap](https://leafmap.org):
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/actinia-org/actinia-jupyter/blob/main/notebooks/actinia_leafmap.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/actinia-org/actinia-jupyter/7fa1c793cb00e59a0abaa4c97b1d65710e4d47fa?urlpath=lab%2Ftree%2Fnotebooks%2Factinia_leafmap.ipynb)
 
